@@ -7,6 +7,7 @@ public class githubpractise
 	@Test
 	public void sample() {
 		System.out.println("practising gitHUB");
+		System.out.println("second pushing");
 	}
 
 }

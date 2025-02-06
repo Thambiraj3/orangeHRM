@@ -8,9 +8,7 @@ public class githubpractise
 	public void sample() {
 		System.out.println("practising gitHUB");
 		System.out.println("second pushing");
-	}
-	public void m8() {
-		System.out.println("push m8");
+		System.out.println("m8");
 	}
 
 }
